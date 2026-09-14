@@ -20,3 +20,6 @@ dist/
 
 # Claude Code — skills y configuración local
 .claude/
+
+# ShipStudio metadata
+.shipstudio/
