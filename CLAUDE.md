@@ -25,7 +25,7 @@ System rules: `/Volumes/KINGSTON/Work/repos/_system/work-rules.md`. They apply h
   - `sanity-studio-backup/`: earlier standalone Sanity studio (code only; `node_modules`/`dist` left out).
   - `webflow-export-ts2026/`: export of the previous Webflow build. `1779805381246.png`: loose image from the old folder.
 - GitHub: `titosolano/titosolano-com` (renamed from `ts2026-astro` 2026-11-11). **Public on purpose:** needed for free Vercel hosting. Never commit secrets or private contact details here; the Vercel project keeps its old name `ts2026-astro` and follows the repo by ID.
-- ClickUp: none yet.
+- ClickUp: space **Tito Solano** › list **`titosolano.com`** (`901423199258`), the site backlog. New ideas, fixes and mini projects for the site go there as tasks.
 
 ## Path-bound config
 - **Active location: this repo** since 2026-11-11. Old folder `~/Documents/Tito Solano/website v2` = archive; deleting it is Tito's call.
