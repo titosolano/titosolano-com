@@ -36,6 +36,6 @@ Tito's dashboard shows only **Tito Solano › Scheduled** (`901423195732`, forme
 - **When:** a task goes to Scheduled when Tito gives it a date (he asks for it today, this week or by a deadline, or approves a plan with dates). No date from Tito → it stays in its backlog, undated.
 - **One task:** create it in its home list (site or project), then "Add to" Scheduled (`clickup_add_task_to_list`). The home list doesn't change.
 - **Several tasks toward one goal:** one package task created in Scheduled, `<Account or site> | <goal>`. The tasks stay in their lists, wait on it (dependency) and are linked in its description.
-- **Required on both:** assignee Tito, due date, Timeframe, status `ready`, `Repo ref`. Field and option IDs: `/Volumes/KINGSTON/Work/repos/_system/procedures/planning.md` → Conventions.
+- **Required on both:** assignee Tito, due date, Timeframe, status `Open` + tag `ready`, `Repo ref`. Field and option IDs: `/Volumes/KINGSTON/Work/repos/_system/procedures/planning.md` → Conventions.
 - **Two-way link:** a line under `## Open packages` in the status file (name, link, done-when). When its done-when is met, close it in the same session and remove the line.
 - Never in Company Space or any Ubiko/Uroboro list (privacy between scopes).
